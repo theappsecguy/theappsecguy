@@ -17,6 +17,6 @@ Above all else, I am a Christian, Husband and Father. I am an application securi
 
 - **_Coming Soon_**
 
-## [Resources](#Resources)
+## [Resources](Resources.md)
 
 
